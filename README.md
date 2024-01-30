@@ -1,2 +1,4 @@
 # Learning_demo
-This is my first own GIT Repository.
+This is my first GIT Repository.
+<br> 
+Author: **Trambak**
